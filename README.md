@@ -138,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Circle K](http://www.circlek.com)** | **[Team Member](https://jobright.ai/jobs/info/6896a5ff8c6d6b4426784329?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Store 2746307 Rogers MN | On Site | Aug 06 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Service Team](https://jobright.ai/jobs/info/682e9f7423f66c823ef9fce3?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Westerville, OH | On Site | Aug 06 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682e9f7423f66c823ef9fdb1?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Fountain, CO | On Site | Aug 06 |
+| ↳ | **[Service Team](https://jobright.ai/jobs/info/682d55b3902a0b753bc08f8c?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Las Vegas, NV | On Site | Aug 06 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebc10?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Pacifica, CA | On Site | Aug 06 |
 | **[CardioOne](https://www.cardioone.com)** | **[Customer Service Representative](https://jobright.ai/jobs/info/6896a6d31b9e81727f1932ef?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | CardioDiagnostics | On Site | Aug 06 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Service Team](https://jobright.ai/jobs/info/682d5065a2aec011310157e6?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Martinez, CA | On Site | Aug 06 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5f929d56317f5cceb94d?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Alameda, CA | On Site | Aug 06 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5f929d56317f5cceba4b?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Lake Forest, IL | On Site | Aug 06 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d4ca8c2d326b158fad077?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Honolulu, HI | On Site | Aug 06 |
-| ↳ | **[Service Team](https://jobright.ai/jobs/info/682d55b3902a0b753bc08edf?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Las Vegas, NV | On Site | Aug 06 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5f929d56317f5cceba0c?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | San Jose, CA | On Site | Aug 06 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebc27?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Aliso Viejo, CA | On Site | Aug 06 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d4344eb05768db8e00417?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Agoura Hills, CA | On Site | Aug 06 |
@@ -233,7 +233,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d4a660901b82c20f7b019?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Kapolei, HI | On Site | Aug 05 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d4344eb05768db8e00457?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Old Bridge, NJ | On Site | Aug 05 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d55b3902a0b753bc08ef3?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Morris, IL | On Site | Aug 05 |
-| ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebcbc?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Las Vegas, NV | On Site | Aug 05 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682e9f7423f66c823ef9fdf0?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Tacoma, WA | On Site | Aug 05 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5065a2aec0113101573f?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Honolulu, HI | On Site | Aug 05 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d6a747a0884edcb67b709?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Pearl City, HI | On Site | Aug 05 |
@@ -265,6 +264,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d4344eb05768db8e00347?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Santa Clara, CA | On Site | Aug 04 |
 | **[Mission Healthcare](http://homewithmission.com/)** | **[Full Time Licensed Practical Nurse / LPN (Home Health)](https://jobright.ai/jobs/info/682bd69f1cabc885f542e703?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Salem, OR | Hybrid | Aug 04 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Service Team](https://jobright.ai/jobs/info/682d4344eb05768db8e00429?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Littleton, CO | On Site | Aug 04 |
+| ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebce3?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Las Vegas, NV | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d4a660901b82c20f7b12c?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Long Beach, CA | On Site | Aug 04 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Parts Specialist](https://jobright.ai/jobs/info/681da35313f9cf6a10e7b23d?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Quincy, IL | On Site | Aug 04 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Service Team](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebc2f?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Glen Burnie, MD | On Site | Aug 04 |
@@ -303,12 +303,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5f929d56317f5cceb9e9?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Fontana, CA | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5065a2aec01131015837?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | San Juan Capistrano, CA | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5065a2aec0113101599a?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Renton, WA | On Site | Aug 04 |
+| ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5f929d56317f5cceba41?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Las Vegas, NV | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebcea?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Abingdon, MD | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d4344eb05768db8e00464?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Lompoc, CA | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebc01?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Canal Winchester, OH | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebd07?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Dublin, OH | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682e9f7423f66c823ef9fe3f?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Baldwin Park, CA | On Site | Aug 04 |
-| ↳ | **[Service Team](https://jobright.ai/jobs/info/682d4a660901b82c20f7b14d?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Las Vegas, NV | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d6a747a0884edcb67b85c?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | New York, NY | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5f929d56317f5cceb9f3?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Lynnwood, WA | On Site | Aug 04 |
 | ↳ | **[Service Team](https://jobright.ai/jobs/info/682d5f929d56317f5cceb9ca?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Chicago, IL | On Site | Aug 04 |
@@ -378,7 +378,4 @@ For a complete list, click the following sortable link below:
 | **[Banfield Pet Hospital](https://www.banfield.com/)** | **[Client Service Coordinator - 005037](https://jobright.ai/jobs/info/681c1d6302fd7a7a9a97bce3?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Bloomington, MN | On Site | Aug 02 |
 | **[OneTrust](https://www.onetrust.com/)** | **[Salesforce Administrator](https://jobright.ai/jobs/info/681bd0f1f3da7b7aaa953c51?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | New York, NY | On Site | Aug 02 |
 | **[The MedElite Group](https://medelitegrp.com)** | **[Travel Nurse Practitioner/Physician Assistant for Pulmonology](https://jobright.ai/jobs/info/6896a69a1b9e81727f193280?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Texas, United States | On Site | Aug 02 |
-| **[K Health](https://khealth.com)** | **[Care Concierge](https://jobright.ai/jobs/info/68261c74f8de945cefe08a1c?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | New York, NY | Hybrid | Aug 02 |
-| **[Otterbein SeniorLife](https://otterbein.org)** | **[Registered Nurses RN](https://jobright.ai/jobs/info/6896a3618c6d6b4426783e62?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Cridersville, Ohio | On Site | Aug 02 |
-| **[Rite-Hite](https://www.ritehite.com)** | **[Service Tech 1 - Columbia, MO](https://jobright.ai/jobs/info/681a800017a99ebfb2fa8341?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Columbia, MO | On Site | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
