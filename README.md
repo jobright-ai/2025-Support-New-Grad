@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SCA Health](http://scasurgery.com)** | **[Surgical Tech Certified - East Pavilion Surgery Center](https://jobright.ai/jobs/info/68d6e9d045853d0e39ccaf38?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Portland, OR | On Site | Oct 23 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Floor Tech](https://jobright.ai/jobs/info/688b103509808a6103e543c0?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Goodyear, AZ | On Site | Oct 23 |
 | **[HCA HealthONE](http://www.healthonecares.com/)** | **[Certified Sterile Processing Tech](https://jobright.ai/jobs/info/686c2db735584b654229190c?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Denver, CO | On Site | Oct 23 |
 | **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Surgical Tech](https://jobright.ai/jobs/info/68c0cf4e702aa35207ab0ae3?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Princeton, NJ | On Site | Oct 23 |
@@ -206,6 +207,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/689e6ed683d13d1f5b6bc60d?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Boardman, OH | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/689e712b79a9f9666254cbbb?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Duluth, MN | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bad4916105227d118a0c03?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Princeton, MN | On Site | Oct 18 |
+| ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68ca63025f9f0336447dcf5d?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Ashland, OH | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68cd1468e23def7af55b4f9e?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Mojave, CA | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bac7948043103d4f222e9d?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Lamont, CA | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/689e717479a9f9666254ccfa?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Inver Grove Heights, MN | On Site | Oct 18 |
@@ -257,8 +259,7 @@ For a complete list, click the following sortable link below:
 | **[MultiCare Health System](http://www.multicare.org)** | **[Radiology CT Technologist OCED](https://jobright.ai/jobs/info/68d757167a37c712687c9400?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Tacoma, WA | On Site | Oct 18 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Outlet Office Assistant](https://jobright.ai/jobs/info/68baf9e36105227d118a1e6c?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Lebanon, TN | On Site | Oct 18 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bad56c6105227d118a0c88?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Winona, MN | On Site | Oct 18 |
-| **[MultiCare Health System](http://www.multicare.org)** | **[Radiologic Technologist](https://jobright.ai/jobs/info/68673827b419d3bc5d9372b2?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Spokane, WA | On Site | Oct 18 |
-| **[Dollar Tree Stores](http://dollartree.com)** | **[Customer Service Associate I](https://jobright.ai/jobs/info/689e72cf83d13d1f5b6bc9b3?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Streetsboro, OH | On Site | Oct 18 |
+| ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/689e72cf83d13d1f5b6bc9b3?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Streetsboro, OH | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bacf205f38327491869bfd?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Delhi, CA | On Site | Oct 18 |
 | **[Landry's](http://www.landrysinc.com/)** | **[Host / Hostess (Upscale / Fine Dining)](https://jobright.ai/jobs/info/67bd5f34381b27d2dba3907c?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Coronado, CA | On Site | Oct 18 |
 | **[HCA HealthONE](http://www.healthonecares.com/)** | **[Surgical Technologist III](https://jobright.ai/jobs/info/68d775ad61a175619f8cdf54?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Denver, CO | On Site | Oct 18 |
@@ -270,6 +271,7 @@ For a complete list, click the following sortable link below:
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bac60e6105227d118a0443?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | South Point, OH | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bac6e45f383274918696b0?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Silvis, IL | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68ce24461ad6b16f028a246e?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Elk Grove Village, IL | On Site | Oct 18 |
+| **[MultiCare Health System](http://www.multicare.org)** | **[Radiologic Technologist](https://jobright.ai/jobs/info/6849aa4a69ef1c4a444f8a39?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Spokane, WA | On Site | Oct 18 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Radiology Technologist](https://jobright.ai/jobs/info/68c29c20b535a221b153d6d2?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Rapid City, SD | On Site | Oct 18 |
 | **[Landry's](http://www.landrysinc.com/)** | **[Host / Hostess](https://jobright.ai/jobs/info/68d5c07763d77d6f6f3f209b?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | St Clair, MI | On Site | Oct 18 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bae07c8043103d4f223a44?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Gardner, MA | On Site | Oct 18 |
@@ -285,8 +287,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bacf755f38327491869c77?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Mount Arlington, NJ | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bad5046105227d118a0c33?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Kankakee, IL | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bacea08043103d4f223256?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Beverly, MA | On Site | Oct 18 |
-| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Pharmacy Tech Outpatient Retail](https://jobright.ai/jobs/info/68d7d2b57a37c712687d5add?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Durango, CO | On Site | Oct 18 |
-| **[Dollar Tree Stores](http://dollartree.com)** | **[Customer Service Associate I](https://jobright.ai/jobs/info/68d68c6cd3fe025a3015a60f?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Evans, CO | On Site | Oct 18 |
+| ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68d68c6cd3fe025a3015a60f?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Evans, CO | On Site | Oct 18 |
 | **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Certified Surgical Tech](https://jobright.ai/jobs/info/68d6083f63d77d6f6f3f3ec9?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Manalapan, NJ | On Site | Oct 18 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Customer Service Associate I](https://jobright.ai/jobs/info/68bad4fe6105227d118a0c2d?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Hartford, NY | On Site | Oct 18 |
 | ↳ | **[Customer Service Associate I](https://jobright.ai/jobs/info/68d682f945853d0e39cc8026?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Kearny, NJ | On Site | Oct 18 |
@@ -440,5 +441,4 @@ For a complete list, click the following sortable link below:
 | **[Guthrie](http://www.guthrie.org)** | **[Radiologic Technologist - Full Time](https://jobright.ai/jobs/info/67d40bccc11a65d81824ec45?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Cortland, NY | On Site | Oct 17 |
 | **[Territorial Savings, a division of Bank of Hope](https://www.tsbhawaii.bank)** | **[Teller (Kahului)- Territorial Savings](https://jobright.ai/jobs/info/689ce28d79a9f9666253bd19?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Kahului, HI | On Site | Oct 17 |
 | **[Aspen Valley Health](https://www.aspenvalleyhospital.org/)** | **[Radiologic Technologist and Clinic Coordinator - Snowmass Clinic - Seasonal](https://jobright.ai/jobs/info/68d7777d61a175619f8cecbe?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Snowmass, CO | On Site | Oct 17 |
-| **[Cooley Dickinson Hospital](https://www.cooleydickinson.org/)** | **[Radiologic Technologist](https://jobright.ai/jobs/info/68d4ee0024b1ee4c7b661f3d?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Northampton, MA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
