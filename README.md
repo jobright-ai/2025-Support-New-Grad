@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Torrance Memorial](https://www.torrancememorial.org)** | **[Patient Care Tech - Float Pool FT Nights](https://jobright.ai/jobs/info/68797216a7fc8904e3962ec2?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Torrance, CA | On Site | Nov 02 |
+| **[SOCOTEC USA](https://www.socotec.us/)** | **[Dispatcher](https://jobright.ai/jobs/info/6880ccbe29ad6b2744adc379?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Mineola, NY | On Site | Nov 02 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Service Team](https://jobright.ai/jobs/info/68cfcca0846f0b04af6852d9?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Cuyahoga Falls, OH | On Site | Nov 02 |
 | **[HCA HealthONE](http://www.healthonecares.com/)** | **[CT Technologist](https://jobright.ai/jobs/info/683fea3a54e5502422acc237?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Englewood, CO | On Site | Nov 02 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Service Team](https://jobright.ai/jobs/info/68cd40afb2a74e1837ed46a6?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Aliso Viejo, CA | On Site | Nov 02 |
@@ -97,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Hoya Vision Care](http://www.hoyavision.com)** | **[Data Entry](https://jobright.ai/jobs/info/68b081f6b47fb001d6892e68?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Largo, FL | Hybrid | Nov 02 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Banquet Houseman Attendent](https://jobright.ai/jobs/info/68ce76a7846f0b04af67a20e?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Lanai City, HI | On Site | Nov 02 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Surgical Technologist](https://jobright.ai/jobs/info/6893adc5f47efe2113966093?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Portland, OR | On Site | Nov 01 |
+| **[PeaceHealth](https://www.peacehealth.org)** | **[Surgical Technologist - OR, 0.0 FTE, Days, M-Fr](https://jobright.ai/jobs/info/68d525532ed36439e51e5bd7?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Sedro-Woolley, WA | On Site | Nov 01 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Guestroom Attendant](https://jobright.ai/jobs/info/6876fe005cebcd1dd51ce3b7?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Lanai City, HI | On Site | Nov 01 |
 | **[Joe's Crab Shack](http://www.joescrabshack.com)** | **[Host / Hostess](https://jobright.ai/jobs/info/68cdb67fe23def7af55be76b?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Fort Worth, TX | On Site | Nov 01 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Radiology Technologist](https://jobright.ai/jobs/info/68cebc40dbd9fb154ede25bf?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Silver Spring, MD | On Site | Nov 01 |
@@ -223,5 +226,4 @@ For a complete list, click the following sortable link below:
 | **[SCA Health](http://scasurgery.com)** | **[Radiology Tech - Christiana Spine Ambulatory Surgery Center](https://jobright.ai/jobs/info/68cbc00dba798c1a501d4e8b?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Newark, DE | On Site | Oct 28 |
 | **[The Pet Hospital of Granbury](https://pethospitalgranbury.com/)** | **[Associate Veterinarian - Cincinnati Veterinary Surgical & Wellness Center](https://jobright.ai/jobs/info/688c0d4b1808534a89cb7f5a?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Cincinnati, OH | On Site | Oct 28 |
 | **[Endeavor Health](https://www.endeavorhealth.org)** | **[Endoscopy Tech - Days](https://jobright.ai/jobs/info/6890b4584c7e851b90ac8dde?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Naperville, IL | On Site | Oct 28 |
-| **[UNC Health](https://www.unchealth.org)** | **[CT Technologist](https://jobright.ai/jobs/info/689f84a8faa4e875e82895e5?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Clayton, NC | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
