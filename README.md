@@ -217,5 +217,4 @@ For a complete list, click the following sortable link below:
 | **[MultiCare Health System](http://www.multicare.org)** | **[Radiology Technologist](https://jobright.ai/jobs/info/68cb7ee0efdec76df36bd8a0?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Covington, WA | On Site | Oct 27 |
 | **[Landry's](http://www.landrysinc.com/)** | **[Host (Upscale / Fine Dining)](https://jobright.ai/jobs/info/68550ba8fb2a49fcaf4a8b69?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | New York, NY | On Site | Oct 27 |
 | **[Swedish](http://www.swedish.org/)** | **[CT Technologist](https://jobright.ai/jobs/info/68c86c6895f5211cd2ce4f3d?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Centralia, WA | On Site | Oct 27 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Radiology Tech](https://jobright.ai/jobs/info/685607aa028d775a584c55df?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Englewood, CO | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
