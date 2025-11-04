@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Surgical Technologist l](https://jobright.ai/jobs/info/68cd1434e23def7af55b4f31?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Boston, MA | On Site | Nov 03 |
 | **[Torrance Memorial](https://www.torrancememorial.org)** | **[Patient Care Tech - Float Pool FT Nights](https://jobright.ai/jobs/info/68797216a7fc8904e3962ec2?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Torrance, CA | On Site | Nov 02 |
 | **[SOCOTEC USA](https://www.socotec.us/)** | **[Dispatcher](https://jobright.ai/jobs/info/6880ccbe29ad6b2744adc379?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Mineola, NY | On Site | Nov 02 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Service Team](https://jobright.ai/jobs/info/68cfcca0846f0b04af6852d9?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Cuyahoga Falls, OH | On Site | Nov 02 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Floor Tech](https://jobright.ai/jobs/info/68cc91db16d00d2beeb217ae?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Bloomfield, CT | On Site | Oct 31 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Service Team](https://jobright.ai/jobs/info/689369baf47efe2113963f46?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Pullman, WA | On Site | Oct 31 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[MRI Technologist Days Evenings](https://jobright.ai/jobs/info/68cbbaf5efdec76df36c166f?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | OKC Metro Area | On Site | Oct 31 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Surgical Technologist l](https://jobright.ai/jobs/info/68cd1434e23def7af55b4f31?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Boston, MA | On Site | Oct 31 |
 | **[PeaceHealth](https://www.peacehealth.org)** | **[Mammography Technologist](https://jobright.ai/jobs/info/6893f678a9199876488e151d?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Vancouver, WA | On Site | Oct 31 |
 | **[Saint Clare's Health](https://www.saintclares.com)** | **[CT Technologist](https://jobright.ai/jobs/info/68cfe768fb49c96ca6eac6e0?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Denville, NJ | On Site | Oct 31 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Mammography Technologist](https://jobright.ai/jobs/info/68cba2089e3a822f5d24966b?utm_campaign=Customer%20Service%20and%20Support&utm_source=1103)** | Gresham, OR | On Site | Oct 31 |
